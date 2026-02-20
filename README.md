@@ -3,9 +3,9 @@
 This project explores housing price patterns across Lagos, Nigeria using a cleaned dataset sourced from Kaggle. The goal was to understand how location, property type, and neighorhood exclusivity influence housing prices. The vizualisation is an interactive Tableau dashboard that highlights price patterns and provides a clear visual summary of the Lagos real estate market.
 
 ## Dashboard Preview
-<img width="999" height="799" alt="Dashboard 1" src="https://github.com/user-attachments/assets/84f62d93-6d5d-4288-a93c-b96258d42593" />
+<img width="999" height="799" alt="Dashboard 1" src="https://github.com/user-attachments/assets/cc8b834f-4789-4928-9596-c0828391988c" />
 
-[Click to view the interactive dashboard](https://public.tableau.com/app/profile/thelma.eremionkhale/viz/LagosRealEstateMarketOverview/Dashboard1?publish=yes)
+[Click to view the interactive dashboard](https://public.tableau.com/app/profile/thelma.eremionkhale/viz/LagosRealEstateMarketOverview_17716318489180/Dashboard1?publish=yes)
 
 ## Dataset Description
 The dataset contains 3,000+ verified real estate listings from across Lagos, Nigeria. Each row represents a property and includes:
@@ -35,7 +35,8 @@ Banana Island, Ikoyi, and Victoria Island stand out as the most expensive neighb
 <img width="978" height="252" alt="image" src="https://github.com/user-attachments/assets/e777e88b-7612-4a11-a75b-3a93d3aae243" />
 
 3. **Average Price by Neighborhood Tier (1–5)** - This illustrates how the exclusivity of the neghborhood might impact the price of the property. Tier 5 neighborhoods are significantly more expensive.
-<img width="435" height="460" alt="image" src="https://github.com/user-attachments/assets/5bca2438-74f4-41b0-b16f-1b12a2abde47" />
+<img width="509" height="464" alt="image" src="https://github.com/user-attachments/assets/bfbcbebc-503e-415d-8805-262793bb1235" />
+
 
 ## Key Insights
 - Banana Island, Ikoyi and Victoria Island have signigicantly higher average property prices compared to other locations.
